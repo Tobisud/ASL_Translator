@@ -1,4 +1,4 @@
-Clone this project into your raspberypi 5
+Clone this project into your raspberypi 5 <br>
 Install all necessary package in requirements.txt 
 pip install -r requirement.txt
 Note: Tensorflow version need to be 2.12.1 to run kesar_model.h5
